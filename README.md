@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sarabjit Singh
-- 🌱 I’m currently learning React Native
 - 📫 You can reach me at heysarabjit@gmail.com
 
 <!---
